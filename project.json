@@ -1,0 +1,20 @@
+{
+    "AuthorName": "Nic West",
+    "AuthorEmail":"oss@nic-west.com",
+    "Year": "2017",
+
+    "PackageName": "",
+    "Description": "",
+    "Version": "0.0.1",
+    "SourcePrefix": "https://github.com/nicwest/",
+    "PythonVersion": ["3", "both", "2"],
+    "DevelopmentStatus": [
+        "Planning",
+        "Pre-Alpha",
+        "Alpha",
+        "Beta",
+        "Production/Stable",
+        "Mature",
+        "Inactive"
+    ]
+}
