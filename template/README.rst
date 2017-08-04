@@ -3,9 +3,9 @@
 
 {{ Description }}
 
-* **source code**: `{{SourcePrefix}}/{{PackageName}}`_
-* **issues**: `{{SourcePrefix}}/{{PackageName}}/issues`_
-* **change log**: `{{SourcePrefix}}/{{PackageName}}/blob/master/CHANGELOG.md`_
+* **source code**: {{SourcePrefix}}/{{PackageName}}
+* **issues**: {{SourcePrefix}}/{{PackageName}}/issues
+* **change log**: {{SourcePrefix}}/{{PackageName}}/blob/master/CHANGELOG.md
 
 
 Installation
@@ -19,7 +19,9 @@ Usage
 =====
 
 .. code-block:: python
+
     import {{PackageName}}
+
 
 Contributing
 ============
