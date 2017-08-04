@@ -1,5 +1,5 @@
 {{ PackageName }}
-{{repeat "=" (len PackageName)}}
+{{repeat "-" (len PackageName)}}
 
 {{ Description }}
 
