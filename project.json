@@ -7,7 +7,7 @@
     "Description": "",
     "Version": "0.0.1",
     "SourcePrefix": "https://github.com/nicwest/",
-    "PythonVersion": ["3", "both", "2"],
+    "PythonVersion": ["both", "2", "3"],
     "DevelopmentStatus": [
         "Planning",
         "Pre-Alpha",
