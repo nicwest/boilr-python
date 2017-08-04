@@ -3,11 +3,9 @@
 
 {{ Description }}
 
-**source code**: `{{SourcePrefix}}/{{PackageName}}`_
-
-**issues**: `{{SourcePrefix}}/{{PackageName}}/issues`_
-
-**change log**: `{{SourcePrefix}}/{{PackageName}}/blob/master/CHANGELOG.md`_
+* **source code**: `{{SourcePrefix}}/{{PackageName}}`_
+* **issues**: `{{SourcePrefix}}/{{PackageName}}/issues`_
+* **change log**: `{{SourcePrefix}}/{{PackageName}}/blob/master/CHANGELOG.md`_
 
 
 Installation
